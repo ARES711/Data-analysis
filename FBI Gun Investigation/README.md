@@ -1,2 +1,2 @@
-# Hello! I'm Omar 👋, a passionate data analyst with a strong curiosity for uncovering insights from data. I am excited to present my latest data analysis related projects, 
+# This project explored trends of U.S gun purchases and its relationship with census variables and transformed, combined and visualized gun and census dataset using NumPy, Pandas and Matplotlib
 
